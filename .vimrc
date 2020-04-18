@@ -2,7 +2,7 @@ call plug#begin()
 Plug 'preservim/nerdtree'
 Plug 'https://gitee.com/mirrors/youcompleteme.git'
 call plug#end()
-
+" 
 syntax on
 " UI Config 界面设置
 set number
